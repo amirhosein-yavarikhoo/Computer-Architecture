@@ -1,0 +1,264 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vasu
+Z0 !s110 1675075050
+!i10b 1
+!s100 [gNPTLjHdL?i1a:2Phikn0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I<=^HZNJoSj=ilaNb<E<SL1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/Uni/Computer Architecture/CAs/1/Verilog
+w1673081422
+8D:/Uni/Computer Architecture/CAs/1/Verilog/asu.v
+FD:/Uni/Computer Architecture/CAs/1/Verilog/asu.v
+!i122 448
+Z4 L0 1 8
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1675075050.000000
+!s107 D:/Uni/Computer Architecture/CAs/1/Verilog/asu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Uni/Computer Architecture/CAs/1/Verilog/asu.v|
+!i113 1
+Z7 o-work work
+Z8 tCvgOpt 0
+vbooth_mul
+R0
+!i10b 1
+!s100 lBB_]W`?WU5Y;2zeJ46Z?2
+R1
+IWClX:=fB_5iPe4UJgLkQE1
+R2
+R3
+w1675067064
+8D:/Uni/Computer Architecture/CAs/1/Verilog/booth_mul.v
+FD:/Uni/Computer Architecture/CAs/1/Verilog/booth_mul.v
+!i122 453
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/Uni/Computer Architecture/CAs/1/Verilog/booth_mul.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Uni/Computer Architecture/CAs/1/Verilog/booth_mul.v|
+!i113 1
+R7
+R8
+vcheck_cnt
+R0
+!i10b 1
+!s100 `4=d]GCUfaZX04eMHlO;W3
+R1
+I[n`Mc>]dH@A9V=zfoCjgd2
+R2
+R3
+w1675053790
+8D:/Uni/Computer Architecture/CAs/1/Verilog/check_cnt.v
+FD:/Uni/Computer Architecture/CAs/1/Verilog/check_cnt.v
+!i122 449
+L0 1 16
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/Uni/Computer Architecture/CAs/1/Verilog/check_cnt.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Uni/Computer Architecture/CAs/1/Verilog/check_cnt.v|
+!i113 1
+R7
+R8
+vcontroller
+R0
+!i10b 1
+!s100 =CEPNMf5bBfI>OP2YhTmJ1
+R1
+IeM0JITmGf8gAoQk^iTP_[3
+R2
+R3
+w1675073859
+8D:/Uni/Computer Architecture/CAs/1/Verilog/Controller.v
+FD:/Uni/Computer Architecture/CAs/1/Verilog/Controller.v
+!i122 447
+L0 1 77
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/Uni/Computer Architecture/CAs/1/Verilog/Controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Uni/Computer Architecture/CAs/1/Verilog/Controller.v|
+!i113 1
+R7
+R8
+vdatapath
+R0
+!i10b 1
+!s100 B2kz5M=zo?F3PicShWGW23
+R1
+IYW3_mCRDA]`XYkC@m>1e_3
+R2
+R3
+w1675067066
+8D:/Uni/Computer Architecture/CAs/1/Verilog/datapath.v
+FD:/Uni/Computer Architecture/CAs/1/Verilog/datapath.v
+!i122 452
+L0 1 14
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/Uni/Computer Architecture/CAs/1/Verilog/datapath.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Uni/Computer Architecture/CAs/1/Verilog/datapath.v|
+!i113 1
+R7
+R8
+vmux
+R0
+!i10b 1
+!s100 Uk>g6cI1dP]][[j@Mi9a52
+R1
+IG6oe^@>DIR7U5KgDM=^?N2
+R2
+R3
+w1672459514
+8D:/Uni/Computer Architecture/CAs/1/Verilog/mux.v
+FD:/Uni/Computer Architecture/CAs/1/Verilog/mux.v
+!i122 446
+L0 1 3
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/Uni/Computer Architecture/CAs/1/Verilog/mux.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Uni/Computer Architecture/CAs/1/Verilog/mux.v|
+!i113 1
+R7
+R8
+vreg_5b
+Z9 !s110 1672460668
+!i10b 1
+!s100 c8o_j;I?2;@mCc9a7oHGU0
+R1
+IYIaF7aL?N8:7FZQT<;YOB0
+R2
+R3
+w1672460656
+8D:\Uni\Computer Architecture\CAs\1\Verilog\5bitreg.v
+FD:\Uni\Computer Architecture\CAs\1\Verilog\5bitreg.v
+!i122 11
+L0 1 6
+R5
+r1
+!s85 0
+31
+Z10 !s108 1672460668.000000
+!s107 D:\Uni\Computer Architecture\CAs\1\Verilog\5bitreg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\Uni\Computer Architecture\CAs\1\Verilog\5bitreg.v|
+!i113 1
+R7
+R8
+vshreg_10b
+R0
+!i10b 1
+!s100 0;iG=ZEWR>U4JA0mH>PHf3
+R1
+Ih>o_5Q^o2jPHMkO8797?^1
+R2
+R3
+w1674724780
+8D:/Uni/Computer Architecture/CAs/1/Verilog/10b_shreg.v
+FD:/Uni/Computer Architecture/CAs/1/Verilog/10b_shreg.v
+!i122 451
+Z11 L0 1 7
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/Uni/Computer Architecture/CAs/1/Verilog/10b_shreg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Uni/Computer Architecture/CAs/1/Verilog/10b_shreg.v|
+!i113 1
+R7
+R8
+vshreg_5b
+R0
+!i10b 1
+!s100 RiHEl<_1VnVB4e_zbiS?o0
+R1
+I__jjXj]MnDzS`=?hOL8^I3
+R2
+R3
+w1674724782
+8D:/Uni/Computer Architecture/CAs/1/Verilog/5bitreg.v
+FD:/Uni/Computer Architecture/CAs/1/Verilog/5bitreg.v
+!i122 450
+R11
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/Uni/Computer Architecture/CAs/1/Verilog/5bitreg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Uni/Computer Architecture/CAs/1/Verilog/5bitreg.v|
+!i113 1
+R7
+R8
+vshreg_6b
+R9
+!i10b 1
+!s100 j1k=c6jj[TT;WQPzkA`@o3
+R1
+I`Kn?9Kb]o`Slg[4_4XMK<3
+R2
+R3
+w1672460646
+8D:\Uni\Computer Architecture\CAs\1\Verilog\6b_shreg.v
+FD:\Uni\Computer Architecture\CAs\1\Verilog\6b_shreg.v
+!i122 12
+R11
+R5
+r1
+!s85 0
+31
+R10
+!s107 D:\Uni\Computer Architecture\CAs\1\Verilog\6b_shreg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\Uni\Computer Architecture\CAs\1\Verilog\6b_shreg.v|
+!i113 1
+R7
+R8
+vtb
+R0
+!i10b 1
+!s100 Aa3cnQ[QHl`J3dbcXP8NZ3
+R1
+IQRX3fhmfA1M5hWT[]B0dI3
+R2
+R3
+w1675055650
+8D:/Uni/Computer Architecture/CAs/1/Verilog/tb.v
+FD:/Uni/Computer Architecture/CAs/1/Verilog/tb.v
+!i122 454
+L0 3 43
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/Uni/Computer Architecture/CAs/1/Verilog/tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Uni/Computer Architecture/CAs/1/Verilog/tb.v|
+!i113 1
+R7
+R8

@@ -1,0 +1,64 @@
+{D:/Uni/Computer Architecture/CAs/1/Verilog/tb.v} {1 {vlog -work work -stats=none {D:/Uni/Computer Architecture/CAs/1/Verilog/tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb
+
+Top level modules:
+	tb
+
+} {} {}} {D:/Uni/Computer Architecture/CAs/1/Verilog/check_cnt.v} {1 {vlog -work work -stats=none {D:/Uni/Computer Architecture/CAs/1/Verilog/check_cnt.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module check_cnt
+
+Top level modules:
+	check_cnt
+
+} {} {}} {D:/Uni/Computer Architecture/CAs/1/Verilog/5bitreg.v} {1 {vlog -work work -stats=none {D:/Uni/Computer Architecture/CAs/1/Verilog/5bitreg.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module shreg_5b
+
+Top level modules:
+	shreg_5b
+
+} {} {}} {D:/Uni/Computer Architecture/CAs/1/Verilog/mux.v} {1 {vlog -work work -stats=none {D:/Uni/Computer Architecture/CAs/1/Verilog/mux.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux
+
+Top level modules:
+	mux
+
+} {} {}} {D:/Uni/Computer Architecture/CAs/1/Verilog/10b_shreg.v} {1 {vlog -work work -stats=none {D:/Uni/Computer Architecture/CAs/1/Verilog/10b_shreg.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module shreg_10b
+
+Top level modules:
+	shreg_10b
+
+} {} {}} {D:/Uni/Computer Architecture/CAs/1/Verilog/datapath.v} {1 {vlog -work work -stats=none {D:/Uni/Computer Architecture/CAs/1/Verilog/datapath.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module datapath
+
+Top level modules:
+	datapath
+
+} {} {}} {D:/Uni/Computer Architecture/CAs/1/Verilog/Controller.v} {1 {vlog -work work -stats=none {D:/Uni/Computer Architecture/CAs/1/Verilog/Controller.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} {D:/Uni/Computer Architecture/CAs/1/Verilog/asu.v} {1 {vlog -work work -stats=none {D:/Uni/Computer Architecture/CAs/1/Verilog/asu.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module asu
+
+Top level modules:
+	asu
+
+} {} {}} {D:/Uni/Computer Architecture/CAs/1/Verilog/booth_mul.v} {1 {vlog -work work -stats=none {D:/Uni/Computer Architecture/CAs/1/Verilog/booth_mul.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module booth_mul
+
+Top level modules:
+	booth_mul
+
+} {} {}}

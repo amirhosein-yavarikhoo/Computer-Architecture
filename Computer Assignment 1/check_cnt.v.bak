@@ -1,0 +1,9 @@
+module check_cnt (input cnt_en,clk,check_rst,output reg check_done);
+reg [2:0] cnt = 3'd3; 
+always @(posedge clk, check_rst) begin
+    if (check_rst) cnt <= 3'd3;
+    else if (cnt_en) {check_done,cnt} <= cnt + 1;
+    if (check_done) cnt <= 3'd3;
+
+end
+endmodule
