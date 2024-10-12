@@ -1,0 +1,113 @@
+{C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/shl2.v} {1 {vlog -work work -stats=none {C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/shl2.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module shl2
+
+Top level modules:
+	shl2
+
+} {} {}} {C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/shl2_26b.v} {1 {vlog -work work -stats=none {C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/shl2_26b.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module shl2_26b
+
+Top level modules:
+	shl2_26b
+
+} {} {}} {C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/controller.v} {1 {vlog -work work -stats=none {C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/controller.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} {C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/reg_file.v} {1 {vlog -work work -stats=none {C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/reg_file.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module reg_file
+
+Top level modules:
+	reg_file
+
+} {} {}} {C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/alu_controller.v} {1 {vlog -work work -stats=none {C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/alu_controller.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module alu_controller
+
+Top level modules:
+	alu_controller
+
+} {} {}} {C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/mux2to1_32b.v} {1 {vlog -work work -stats=none {C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/mux2to1_32b.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux2to1_32b
+
+Top level modules:
+	mux2to1_32b
+
+} {} {}} {C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/mips_tb.v} {1 {vlog -work work -stats=none {C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/mips_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mips_tb
+
+Top level modules:
+	mips_tb
+
+} {} {}} {C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/datapath.v} {1 {vlog -work work -stats=none {C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/datapath.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module datapath
+
+Top level modules:
+	datapath
+
+} {} {}} {C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/data_mem.v} {1 {vlog -work work -stats=none {C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/data_mem.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module data_mem
+
+Top level modules:
+	data_mem
+
+} {} {}} {C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/sign_ext.v} {1 {vlog -work work -stats=none {C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/sign_ext.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module sign_ext
+
+Top level modules:
+	sign_ext
+
+} {} {}} {C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/mips_single_cycle.v} {1 {vlog -work work -stats=none {C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/mips_single_cycle.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mips_single_cycle
+
+Top level modules:
+	mips_single_cycle
+
+} {} {}} {C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/alu.v} {1 {vlog -work work -stats=none {C:\Users\amirh\Downloads\University\Digital Systems 2\CA\1 o 2\CA2\Verilog & Text files\alu.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} {C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/inst_mem.v} {1 {vlog -work work -stats=none {C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/inst_mem.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module inst_mem
+
+Top level modules:
+	inst_mem
+
+} {} {}} {C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/reg_32b.v} {1 {vlog -work work -stats=none {C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/reg_32b.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module reg_32b
+
+Top level modules:
+	reg_32b
+
+} {} {}} {C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/adder_32b.v} {1 {vlog -work work -stats=none {C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/adder_32b.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module adder_32b
+
+Top level modules:
+	adder_32b
+
+} {} {}} {C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/mux2to1_5b.v} {1 {vlog -work work -stats=none {C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/mux2to1_5b.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux2to1_5b
+
+Top level modules:
+	mux2to1_5b
+
+} {} {}}

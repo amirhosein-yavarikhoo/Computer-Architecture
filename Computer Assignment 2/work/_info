@@ -1,0 +1,379 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/amirh/Downloads/mips
+vadder_32b
+Z0 !s110 1675354630
+!i10b 1
+!s100 CdTlEW`E=^kLiQ^OM;og<0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IjZPJh;jPYDIGE^CBLi_@03
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files
+w1675078322
+8C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/adder_32b.v
+FC:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/adder_32b.v
+!i122 365
+L0 1 9
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1675354630.000000
+!s107 C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/adder_32b.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/adder_32b.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+valu
+!s110 1675354816
+!i10b 1
+!s100 d_1JZ6jd40LSjXROQI0RF1
+R1
+IZRloPLlYHPDg7U5S?R@<53
+R2
+R3
+w1675354812
+8C:\Users\amirh\Downloads\University\Digital Systems 2\CA\1 o 2\CA2\Verilog & Text files\alu.v
+FC:\Users\amirh\Downloads\University\Digital Systems 2\CA\1 o 2\CA2\Verilog & Text files\alu.v
+!i122 381
+L0 1 16
+R4
+r1
+!s85 0
+31
+!s108 1675354816.000000
+!s107 C:\Users\amirh\Downloads\University\Digital Systems 2\CA\1 o 2\CA2\Verilog & Text files\alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\amirh\Downloads\University\Digital Systems 2\CA\1 o 2\CA2\Verilog & Text files\alu.v|
+!i113 1
+R6
+R7
+valu_controller
+R0
+!i10b 1
+!s100 ;GIgB7[F9k1jXI0Fh3<1g2
+R1
+I9ORAFEL9gET9@lW4kEc:j2
+R2
+R3
+w1675262412
+8C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/alu_controller.v
+FC:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/alu_controller.v
+!i122 367
+L0 1 30
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/alu_controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/alu_controller.v|
+!i113 1
+R6
+R7
+vcontroller
+R0
+!i10b 1
+!s100 [JOD;>gcnfgHR4?EjJkkZ2
+R1
+IUA06]fL^UEi8_KhFXb60E1
+R2
+R3
+w1675262300
+8C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/controller.v
+FC:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/controller.v
+!i122 368
+L0 1 54
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/controller.v|
+!i113 1
+R6
+R7
+vdata_mem
+Z8 !s110 1675354631
+!i10b 1
+!s100 o_lXd6lmdmZ4AK03:Sb4W1
+R1
+ISQCMOl<`U3W_Bm0KILLja2
+R2
+R3
+w1675353153
+8C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/data_mem.v
+FC:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/data_mem.v
+!i122 369
+L0 1 18
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/data_mem.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/data_mem.v|
+!i113 1
+R6
+R7
+vdatapath
+R8
+!i10b 1
+!s100 `9[aadMWgQUOzLD`612[=2
+R1
+IZGUOFQmz_ZKPOQUTOHJVm0
+R2
+R3
+w1675173815
+8C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/datapath.v
+FC:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/datapath.v
+!i122 370
+L0 1 74
+R4
+r1
+!s85 0
+31
+Z9 !s108 1675354631.000000
+!s107 C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/datapath.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/datapath.v|
+!i113 1
+R6
+R7
+vinst_mem
+R8
+!i10b 1
+!s100 RdQnTaH2[bWWCARXVdCmS3
+R1
+I__R]bLKmhQKhj@BlCbRaC3
+R2
+R3
+w1675352824
+8C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/inst_mem.v
+FC:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/inst_mem.v
+!i122 371
+L0 1 17
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/inst_mem.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/inst_mem.v|
+!i113 1
+R6
+R7
+vmips_single_cycle
+R8
+!i10b 1
+!s100 BY6O:HjJkmNZYz;aaD<4d2
+R1
+IB0j`S=DAMOnI^OU[2ff[i0
+R2
+R3
+w1675177586
+8C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/mips_single_cycle.v
+FC:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/mips_single_cycle.v
+!i122 372
+L0 1 23
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/mips_single_cycle.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/mips_single_cycle.v|
+!i113 1
+R6
+R7
+vmips_tb
+R8
+!i10b 1
+!s100 anAlDXjIPzL6aG?KKg]QQ2
+R1
+I]Qo8D4HHoC5lY080S;23R2
+R2
+R3
+w1675259076
+8C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/mips_tb.v
+FC:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/mips_tb.v
+!i122 373
+L0 2 28
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/mips_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/mips_tb.v|
+!i113 1
+R6
+R7
+vmux2to1_32b
+R8
+!i10b 1
+!s100 AE9e?1BV5Sz27kIdaZoVg0
+R1
+I`azTSRYT6a4NEQf]Kcb131
+R2
+R3
+w1675078316
+8C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/mux2to1_32b.v
+FC:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/mux2to1_32b.v
+!i122 375
+Z10 L0 1 8
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/mux2to1_32b.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/mux2to1_32b.v|
+!i113 1
+R6
+R7
+vmux2to1_5b
+R8
+!i10b 1
+!s100 SKDUW1lgVa5:NWccSd_8;0
+R1
+IoFQQPLl8<YlMJ:EGS>P>^3
+R2
+R3
+w1675078315
+8C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/mux2to1_5b.v
+FC:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/mux2to1_5b.v
+!i122 374
+R10
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/mux2to1_5b.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/mux2to1_5b.v|
+!i113 1
+R6
+R7
+vreg_32b
+Z11 !s110 1675354632
+!i10b 1
+!s100 OUc416Wd[[0ZU_`^Ih>>42
+R1
+I7E:zT75aDI?R`UMHfB0g91
+R2
+R3
+Z12 w1675078317
+8C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/reg_32b.v
+FC:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/reg_32b.v
+!i122 376
+L0 1 15
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/reg_32b.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/reg_32b.v|
+!i113 1
+R6
+R7
+vreg_file
+R11
+!i10b 1
+!s100 O=Jn_@zTMfzg<D>4KUllm1
+R1
+IWmd>4J8?SRY1jM?NWnEW42
+R2
+R3
+R12
+8C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/reg_file.v
+FC:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/reg_file.v
+!i122 377
+L0 1 21
+R4
+r1
+!s85 0
+31
+Z13 !s108 1675354632.000000
+!s107 C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/reg_file.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/reg_file.v|
+!i113 1
+R6
+R7
+vshl2
+R11
+!i10b 1
+!s100 4EAXZV:3QGkjVF2g0U<@m2
+R1
+IaXMbjI`?Q^Tn_RTBZedKX3
+R2
+R3
+w1675078301
+8C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/shl2.v
+FC:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/shl2.v
+!i122 378
+Z14 L0 1 7
+R4
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/shl2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/shl2.v|
+!i113 1
+R6
+R7
+vshl2_26b
+R11
+!i10b 1
+!s100 M<WF:Q1Cz_P;2dTd<ijMe0
+R1
+IHH3T;?X;8bSaJK9BDOQdA1
+R2
+R3
+w1675175187
+8C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/shl2_26b.v
+FC:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/shl2_26b.v
+!i122 379
+R14
+R4
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/shl2_26b.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/shl2_26b.v|
+!i113 1
+R6
+R7
+vsign_ext
+R11
+!i10b 1
+!s100 Xl:JU@EYA]hcK5RRYMQB73
+R1
+I5Vi6`<GbGG5nU2PMR@Sd=3
+R2
+R3
+w1675078299
+8C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/sign_ext.v
+FC:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/sign_ext.v
+!i122 380
+R14
+R4
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/sign_ext.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/amirh/Downloads/University/Digital Systems 2/CA/1 o 2/CA2/Verilog & Text files/sign_ext.v|
+!i113 1
+R6
+R7
