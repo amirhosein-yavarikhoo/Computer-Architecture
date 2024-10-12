@@ -1,0 +1,120 @@
+C:/caproject3/MIPS_multi.v {1 {vlog -work work -stats=none C:/caproject3/MIPS_multi.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MIPS_multi
+
+Top level modules:
+	MIPS_multi
+
+} {} {}} C:/caproject3/reg_32b.v {1 {vlog -work work -stats=none C:/caproject3/reg_32b.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module reg_32b
+
+Top level modules:
+	reg_32b
+
+} {} {}} C:/caproject3/mux2to1_5b.v {1 {vlog -work work -stats=none C:/caproject3/mux2to1_5b.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux2to1_5b
+
+Top level modules:
+	mux2to1_5b
+
+} {} {}} C:/caproject3/shl2_32b.v {1 {vlog -work work -stats=none C:/caproject3/shl2_32b.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module shl2_32b
+
+Top level modules:
+	shl2_32b
+
+} {} {}} C:/caproject3/mux3to1_32b.v {1 {vlog -work work -stats=none C:/caproject3/mux3to1_32b.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux3to1_32b
+
+Top level modules:
+	mux3to1_32b
+
+} {} {}} C:/caproject3/reg_32b_l.v {1 {vlog -work work -stats=none C:/caproject3/reg_32b_l.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module reg_32b_l
+
+Top level modules:
+	reg_32b_l
+
+} {} {}} C:/caproject3/shl2.v {1 {vlog -work work -stats=none C:/caproject3/shl2.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module shl2
+
+Top level modules:
+	shl2
+
+} {} {}} C:/caproject3/controller.v {1 {vlog -work work -stats=none C:/caproject3/controller.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} C:/caproject3/alu_controller.v {1 {vlog -work work -stats=none C:/caproject3/alu_controller.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module alu_controller
+
+Top level modules:
+	alu_controller
+
+} {} {}} C:/caproject3/reg_file.v {1 {vlog -work work -stats=none C:/caproject3/reg_file.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module reg_file
+
+Top level modules:
+	reg_file
+
+} {} {}} C:/caproject3/TB.v {1 {vlog -work work -stats=none C:/caproject3/TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mips_tb
+
+Top level modules:
+	mips_tb
+
+} {} {}} C:/caproject3/mux2to1_32b.v {1 {vlog -work work -stats=none C:/caproject3/mux2to1_32b.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux2to1_32b
+
+Top level modules:
+	mux2to1_32b
+
+} {} {}} C:/caproject3/datapath.v {1 {vlog -work work -stats=none C:/caproject3/datapath.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module datapath
+
+Top level modules:
+	datapath
+
+} {} {}} C:/caproject3/mux4to1_32b.v {1 {vlog -work work -stats=none C:/caproject3/mux4to1_32b.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux4to1_32b
+
+Top level modules:
+	mux4to1_32b
+
+} {} {}} C:/caproject3/memory.v {1 {vlog -work work -stats=none C:/caproject3/memory.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module memory
+
+Top level modules:
+	memory
+
+} {} {}} C:/caproject3/sign_ext.v {1 {vlog -work work -stats=none C:/caproject3/sign_ext.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module sign_ext
+
+Top level modules:
+	sign_ext
+
+} {} {}} C:/caproject3/alu.v {1 {vlog -work work -stats=none C:/caproject3/alu.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}}
